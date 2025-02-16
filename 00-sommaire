@@ -1,0 +1,68 @@
+SOMMAIRE : Kubernetes
+
+
+1 - Introduction
+
+2 - Notions
+
+3 - Minikube
+
+4 - Installation : prérequis
+
+5 - Installation : cluster
+
+5b - Correction de bug vagrant/VBox
+
+6 - Add-on
+
+7 - CLI : Shell interactif
+
+8 - CLI : Premier Pod - Premier Service : Nginx
+
+9 - CLI : premier scale
+
+10 - CLI : recueillir des infos
+
+11 - CLI : générer un manifeste yaml
+
+12 - Les Ressources / Kind
+
+13 - Contextes et Namespaces
+
+14 - Labels et Annotations
+
+15 - Pods - Configurer un pod
+
+16 - Pods - healthcheck
+
+17 - Pods - ressources (limits et requests)
+
+18 - Pods - les dessous de la mémoire (cgroup docker)
+
+19 - Les Volumes
+
+20 - les Persistent Volumes
+
+21 - Persistent volumes sur NFS
+
+22 - Replicaset
+
+23 - HPA et replicaset
+
+24 - ConfigMaps et Secrets : création
+
+25 - ConfigMaps et Secrets : utilisation
+
+26 - Deployment
+
+27 - StatefulSet
+
+28 - DaemonSet
+
+29 - Ingress
+
+30 - Ingress Controller : Haproxy
+
+31 - Ingress Controller : Istio
+
+32 - Ingress Controller : Traefik
